@@ -1,4 +1,4 @@
-<!-- TEST FOR FILE-->
+<!-- TESTING-->
 <?php
 require 'includes/connect.php';
 
